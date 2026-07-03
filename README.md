@@ -21,7 +21,7 @@ I like building things :)
   *(FastAPI · Docker · MLflow · PostgreSQL · PyTorch)* — building now.
 - **ML recommender for process mining** — GNN + gradient-boosted models that predict the best A* heuristic for conformance checking. *Under submission to CIKM 2026 & BPM 2026.* Link: https://github.com/RostigerDagmer/pm_ws25
 - **Stream clustering** — implementing and evaluating online clustering algorithms on live data streams. Link: https://gitlab2.cip.ifi.lmu.de/dbs_sep/dbs_streamclustering26
-- **Further Work** - <a href="[https://linkedin.com/in/felix-hajuj](https://gitlab.com/felixhajuj)">Gitlab</a> ·
+- **Further Work** - <a href="https://gitlab.com/felixhajuj">Gitlab</a> ·
 
 ### 🛠️ Tech I work with
 `Python` · `PyTorch` · `scikit-learn` · `pandas` · `NumPy` · `FastAPI` · `Docker` · `SQL` ·
