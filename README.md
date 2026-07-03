@@ -11,20 +11,15 @@
 
 ---
 
-I build machine-learning systems end to end — from messy data to a working, deployed model — and
-I care about communicating results clearly, not just training them. Three years as a research
-assistant at the LMU Software Systems lab taught me to write reliable Python/Java tooling and run
-large-scale data evaluations. Now I'm moving into industry and looking for a **working-student,
-thesis, or graduate role in data science / applied ML** in Munich.
+I like building things :) 
+— from messy data to a working, deployed model —
 
 ### 🔭 What I'm working on
 - **Real-time athlete monitoring & injury-risk detection** — streaming wearable data → online
   anomaly detection + readiness/risk prediction, served via an API with a live dashboard.
   *(FastAPI · Docker · MLflow · PostgreSQL · PyTorch)* — building now.
-- **ML recommender for process mining** — GNN + gradient-boosted models that predict the best A*
-  heuristic for conformance checking. *Under submission to CIKM 2026 & BPM 2026.*
-- **Stream clustering** — implementing and evaluating online clustering algorithms on live data
-  streams.
+- **ML recommender for process mining** — GNN + gradient-boosted models that predict the best A* heuristic for conformance checking. *Under submission to CIKM 2026 & BPM 2026.* Link: https://github.com/RostigerDagmer/pm_ws25
+- **Stream clustering** — implementing and evaluating online clustering algorithms on live data streams. Link: https://gitlab2.cip.ifi.lmu.de/dbs_sep/dbs_streamclustering26
 
 ### 🛠️ Tech I work with
 `Python` · `PyTorch` · `scikit-learn` · `pandas` · `NumPy` · `FastAPI` · `Docker` · `SQL` ·
@@ -35,4 +30,3 @@ thesis, or graduate role in data science / applied ML** in Munich.
 ### 📫 Reach me
 [LinkedIn](https://linkedin.com/in/felix-hajuj) · [Email](mailto:felixhajuj@gmail.com)
 
-<sub>Languages: German (C1) · English (C1) · Arabic (native) · Hebrew (native)</sub>
