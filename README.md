@@ -12,7 +12,7 @@
 --- 
 
 
-I like building things — from raw data to a working, deployed model — and making the results easy to
+I like building things; from raw data to a working, deployed model and making the results easy to
 understand :-)
 
 **Currently building**
