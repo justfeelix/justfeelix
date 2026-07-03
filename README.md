@@ -13,7 +13,7 @@
 
 I like building things :) 
 
-—-- from messy data to a working, deployed model —--
+—- from messy data to a working, deployed model —-
 
 ### 🔭 What I'm working on
 - **Real-time athlete monitoring & injury-risk detection** — streaming wearable data → online
