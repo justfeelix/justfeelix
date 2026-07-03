@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Felix 👋</h1>
 
-<!--
-**justfeelix/justfeelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Data Science &amp; Machine Learning</b> · MSc Computer Science @ LMU Munich
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/felix-hajuj">LinkedIn</a> ·
+  <a href="mailto:felixhajuj@gmail.com">Email</a> · Munich, Germany
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I build machine-learning systems end to end — from messy data to a working, deployed model — and
+I care about communicating results clearly, not just training them. Three years as a research
+assistant at the LMU Software Systems lab taught me to write reliable Python/Java tooling and run
+large-scale data evaluations. Now I'm moving into industry and looking for a **working-student,
+thesis, or graduate role in data science / applied ML** in Munich.
+
+### 🔭 What I'm working on
+- **Real-time athlete monitoring & injury-risk detection** — streaming wearable data → online
+  anomaly detection + readiness/risk prediction, served via an API with a live dashboard.
+  *(FastAPI · Docker · MLflow · PostgreSQL · PyTorch)* — building now.
+- **ML recommender for process mining** — GNN + gradient-boosted models that predict the best A*
+  heuristic for conformance checking. *Under submission to CIKM 2026 & BPM 2026.*
+- **Stream clustering** — implementing and evaluating online clustering algorithms on live data
+  streams.
+
+### 🛠️ Tech I work with
+`Python` · `PyTorch` · `scikit-learn` · `pandas` · `NumPy` · `FastAPI` · `Docker` · `SQL` ·
+`Git` · `Linux` · `Java`
+
+**Focus areas:** machine learning, deep learning, real-time / streaming ML, data analysis, MLOps.
+
+### 📫 Reach me
+[LinkedIn](https://linkedin.com/in/felix-hajuj) · [Email](mailto:felixhajuj@gmail.com)
+
+<sub>Languages: German (C1) · English (C1) · Arabic (native) · Hebrew (native)</sub>
