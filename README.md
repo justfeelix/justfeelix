@@ -15,11 +15,6 @@
 I like building things; from raw data to a working, deployed model and making the results easy to
 understand :-)
 
-**Currently building**
-
-- Real-time athlete monitoring & injury-risk detection — streaming wearable data → online anomaly
-  detection and readiness/risk prediction, served via an API with a live dashboard.
-  (Python, PyTorch, FastAPI, Docker, PostgreSQL)
 
 **Selected work**
 
